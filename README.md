@@ -1,2 +1,3 @@
 # ThinkMeal
-eiei
+food detection api
+not yet
